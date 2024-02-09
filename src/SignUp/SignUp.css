@@ -1,0 +1,43 @@
+/* .Hr_page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2vw;
+    
+} */
+
+.register{
+    font-size: 3vw;
+    margin-left: 100px;
+}
+
+.sign_up_form{
+    display: flex;
+    flex-direction: column;
+    padding: 3vw;
+   
+}
+.inpt{
+    /* border: 1px solid black; */
+    height: 5vh;
+    width: 20vw;
+    margin:2vw;
+    border-radius: 1vh;
+    font-size: 1.2vw;
+}
+
+.btn{
+    margin: 1vw;
+    width: 10vw;
+    height: 6vh;
+    border-radius: 1vh;
+   background-color: black;
+   margin-left: 30px;
+}
+.inptt{
+    height: 5vh;
+    /* margin: 2vw; */
+    border-radius: 1vh;
+    margin: 10px 27px;
+}

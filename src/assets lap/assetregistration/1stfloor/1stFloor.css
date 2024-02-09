@@ -1,0 +1,31 @@
+.firstfloormain{
+    /* border: 1px solid black; */
+    width: 1091px;
+}
+
+.firstfloormain .form-section{
+  border: 1px solid rgb(7, 1, 1);
+  width: 700px;
+  margin-left: 100px;
+}
+
+
+ .firstfloorheading{
+  font-size: 28px;
+    margin: 20px 350px 20px ;
+   
+    color: #17a2b8;
+}
+
+.firstfloormain .form-section table{
+  width: 600px;
+  margin-left:100px ;
+}
+
+.firstfloormain .form-section h6{
+  font-size: medium;
+}
+
+.addsubmit{
+  margin-left: 66%;
+}

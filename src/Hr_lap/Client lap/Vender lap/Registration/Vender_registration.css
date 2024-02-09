@@ -1,0 +1,71 @@
+/* Vender_registration.css */
+ 
+.vendormain {
+  width: 1026px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #f8f9fa; 
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+ 
+.heading {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #17a2b8; /* Color for the form title */
+}
+ 
+.vendormain  .form-section {
+  margin-top: 20px;
+}
+ 
+.vendormain  .form-section    label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 18px; /* Font size for labels */
+  color: #495057; /* Text color for labels */
+}
+ 
+input,
+textarea {
+  width: calc(100% - 24px); /* Adjusted width to account for border and padding */
+  padding: 12px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+  border: 2px solid #17a2b8; /* Border color for input fields */
+  border-radius: 8px;
+  font-size: 16px; /* Font size for input fields */
+  background-color: #ffffff; /* White background color for input fields */
+}
+ 
+button {
+  background-color: #28a745; /* Green background color for the submit button */
+  color: #fff;
+  padding: 15px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px; /* Font size for the submit button */
+}
+
+
+.firstsix{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.leftcol{
+  margin-right: 20px;
+  width: 300px;
+  /* margin-left: 100px; */
+}
+
+.rightcol{
+  margin-left: 20px;
+  width: 300px;
+}
+
+.vendorsubmit{
+  margin-left: 69%;
+}
+

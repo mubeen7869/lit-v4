@@ -1,0 +1,72 @@
+.add-requirement-container {
+  max-width: 1050px;
+    
+  margin: 0 auto;
+  padding: 30px;
+  
+  }
+   
+  .add-requirement-container table {
+    width: 80%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    margin-left: 100px;
+  }
+   
+  td {
+    padding: 8px;
+    border: 1px solid #ccc;
+  }
+   
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+   
+  .check1 {
+    margin-top: 10px;
+    display: flex;
+   justify-content: space-around;
+  }
+   
+  button {
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+   
+ 
+   
+  label {
+    margin-right: 10px;
+  }
+   
+  .Genderplaceing {
+    margin-right: 5px;
+    display: flex;
+    flex-direction: row;
+  }
+   
+  .radio{
+  width: 1vw;
+   
+  margin-right:10px;
+  }
+  /* Add additional styles as needed */
+   
+   
+  .final{
+    margin-left: 82%;
+  }
+   
+  .addheading{
+    font-size: 28px;
+    margin: 20px 370px 20px ;
+   
+    color: #17a2b8;
+  }
